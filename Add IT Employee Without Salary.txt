@@ -1,0 +1,2 @@
+insert into employees values(7, 'Grace Hall', 'IT', NULL);
+select * from employees;
