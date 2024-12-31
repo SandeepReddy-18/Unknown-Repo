@@ -1,0 +1,1 @@
+select restaurantname from orders where deliverystatus = 'Delivered';
