@@ -1,0 +1,2 @@
+INSERT INTO STUDENT VALUES(7, "O'Connor Ryan", 22, 'Mechanical Engineering', '2024-11-20');
+select * from STUDENT WHERE COURSE = 'Mechanical Engineering';
