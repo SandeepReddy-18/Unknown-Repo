@@ -1,0 +1,1 @@
+select customername from Orders where orderdate='2023-11-20';
