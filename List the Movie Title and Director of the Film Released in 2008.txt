@@ -1,0 +1,1 @@
+select title, director from Movies where releaseyear=2008;
